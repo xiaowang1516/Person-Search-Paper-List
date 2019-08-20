@@ -32,8 +32,11 @@ Person search is a new research direction, but plays an important role in practi
 
 11. FMT: fusing multi-task convolutional neural network for person search, Sulan Zhai, Shunqiang Liu, Xiao Wang, Jin Tang, Multimedia Tools and Applications, pp 1–12, [[Paper](https://link.springer.com/article/10.1007/s11042-019-07939-w)] 
 
-12. 
+12. Fast Person Search Pipeline, Jianheng Li Fuhang Liang Yuanxun Li Wei-Shi Zheng, IEEE International Conference on Multimedia and Expo (ICME), 2019 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784982)] 
 
+13. A Discriminatively learned feature embedding based on multi-loss for person search, Hong Liu, Wei Shi, Weipeng Huang, Qiao Guan, ICASSP 2018,  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8462484)] 
+
+14.
 
 
 
